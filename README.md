@@ -1,7 +1,7 @@
 # SNOOZE: Smart Notification and Optimised Organiser with Zero Effort
 
 ## Overview
-QuickMind is an AI-powered personal assistant designed to facilitate various tasks such as document querying, scheduling meetings, and sending emails. It leverages advanced language models and a retrieval-augmented generation (RAG) approach to provide intelligent responses based on user input and uploaded documents.
+SNOOZE is an AI-powered personal assistant designed to facilitate various tasks such as document querying, scheduling meetings, and sending emails. It leverages advanced language models and a retrieval-augmented generation (RAG) approach to provide intelligent responses based on user input and uploaded documents.
 
 ## Snapshots
 Here are some demo videos of the QuickMind application:
