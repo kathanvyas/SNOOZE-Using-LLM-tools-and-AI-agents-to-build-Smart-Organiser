@@ -3,13 +3,20 @@
 ## Overview
 SNOOZE is an AI-powered personal assistant designed to facilitate various tasks such as document querying, scheduling meetings, and sending emails. It leverages advanced language models and a retrieval-augmented generation (RAG) approach to provide intelligent responses based on user input and uploaded documents.
 
+*Click to access the presentation that explains SNOOZE*
+
+[![Access Presentation](https://img.youtube.com/vi/Kf9k9Xnn4jw/0.jpg)]([https://youtu.be/Kf9k9Xnn4jw](https://docs.google.com/presentation/d/1ZfYWNVLsh5n6_DQvPbV08IzMxdM3Hlc3/edit?usp=sharing&ouid=113974454502710491743&rtpof=true&sd=true))
+
+
 ## Snapshots
-Here are some demo videos of the QuickMind application:
+Here are some demo videos of the SNOOZE application:
 [![Watch the video](https://img.youtube.com/vi/pJIweJ_txu4/0.jpg)](https://www.youtube.com/watch?v=pJIweJ_txu4)
 
-*Click to watch the video of the email sending feature*
+*Click to watch the video of the email-sending feature*
 
 [![Watch the video](https://img.youtube.com/vi/Kf9k9Xnn4jw/0.jpg)](https://youtu.be/Kf9k9Xnn4jw)
+
+
 
 *Snapshot of the document query feature*
 
